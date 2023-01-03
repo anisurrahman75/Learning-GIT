@@ -14,6 +14,11 @@
 
 ```git clean -df``` — will remove all the untracked directories and untracked files.
 
+# Git Amend:
+``` git add . ```
+
+``` git commit --amend -m 'messege' ``` — modify last commit
+
 # Git Branch:
 ```Clone the repository```
 
